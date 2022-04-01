@@ -1,5 +1,5 @@
 
-- 👋 Hi ! My name is Lê Bá Khánh
+- 👋 Hi ! My full name is Lê Bá Khánh
 
 🚀 Languages and Tools:
 
