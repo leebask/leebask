@@ -15,8 +15,8 @@
 
 
 🚀 Frameworks:
-<a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;">
+<a href="https://reactjs.org/" title="React" rel="nofollow">
+       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;">
 </a>
 
 
