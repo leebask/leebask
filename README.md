@@ -14,7 +14,7 @@
        <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="28px" height="28px" style="max-width: 100%;">
 </a>
 
-</h3>👋 Liên hệ:<h3> <br/>
+<h3>👋 Liên hệ:</h3> <br/>
 
 <a href="https://www.facebook.com/Leebask.KP/" title="Facebook" rel="nofollow">
       &ensp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="fb" width="38px" height="38px" style="max-width: 100%;margin-left: 10px;">
