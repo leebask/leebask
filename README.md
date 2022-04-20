@@ -14,12 +14,12 @@
 ![image](https://user-images.githubusercontent.com/65387242/159687925-1dfe54d3-0bae-4c73-8428-e56599908285.png)
 
 
-🚀 Frameworks:
+🚀 Frameworks:<br/>
 <a href="https://reactjs.org/" title="React" rel="nofollow">
        <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="28px" height="28px" style="max-width: 100%;">
 </a>
 
-👋 Liên hệ:
+👋 Liên hệ: <br/>
 <a href="https://www.facebook.com/Leebask.KP/" title="Facebook" rel="nofollow">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="fb" width="38px" height="38px" style="max-width: 100%;">
 </a>
