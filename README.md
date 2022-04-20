@@ -1,7 +1,7 @@
 
 - 👋 Hi ! My full name is Lê Bá Khánh
 
-🚀 Languages and Tools:
+<h1>🚀 Languages and Tools:</h1>
 
 ![image](https://user-images.githubusercontent.com/65387242/159687076-87e6602f-2939-4786-b248-60194f5752c1.png) 
 ![image](https://user-images.githubusercontent.com/65387242/159687117-35f6ddd1-9b72-4df0-835d-e9a453ce3fb3.png)
