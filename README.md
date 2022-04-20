@@ -16,11 +16,12 @@
 
 🚀 Frameworks:
 <a href="https://reactjs.org/" title="React" rel="nofollow">
-       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;">
+       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="28px" height="28px" style="max-width: 100%;">
 </a>
 
-<a href="https://reactjs.org/" title="React" rel="nofollow">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="React" width="21px" height="21px" style="max-width: 100%;">
+👋 Liên hệ:
+<a href="https://www.facebook.com/Leebask.KP/" title="Facebook" rel="nofollow">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="fb" width="38px" height="38px" style="max-width: 100%;">
 </a>
 
 
