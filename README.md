@@ -17,7 +17,7 @@
 <h3>📲 Liên hệ:</h3> <br/>
 
 <a href="https://www.facebook.com/Leebask.KP/" title="Facebook" rel="nofollow">
-      &ensp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="fb" width="38px" height="38px" style="max-width: 100%;margin-left: 10px;">
+      &ensp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" alt="fb" width="50px" height="50px" style="max-width: 100%;margin-left: 10px;">
        <p style="color: blue">Lê Khánh</p>
 </a>
 <br/>
