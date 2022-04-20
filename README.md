@@ -11,7 +11,7 @@
 
 <h3>📖 Frameworks:</h3><br/>
 <a href="https://reactjs.org/" title="React" rel="nofollow">
-       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="28px" height="28px" style="max-width: 100%;">
+       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="48px" height="48px" style="max-width: 100%;">
 </a>
 
 <h3>📲 Liên hệ:</h3> <br/>
