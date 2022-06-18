@@ -1,4 +1,4 @@
-<h2>👋 Hi ! My full name is Lê Bá Khánh</h2>
+<h2>👋 Hi ! My full name's Lê Bá Khánh</h2>
 
 <h3>🔣 Languages and Tools:</h3>
 
