@@ -15,7 +15,7 @@
        <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="48px" height="48px" style="max-width: 100%;">
 </a>
 <a href="https://redux-toolkit.js.org/" title="Reduxtoolkit" rel="nofollow">
-       <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" alt="React" width="48px" height="48px" style="max-width: 100%;">
+       <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="React" width="48px" height="48px" style="max-width: 100%;">
 </a>
 
 <h3>📲 Liên hệ:</h3> <br/>
