@@ -1,6 +1,6 @@
 <h2>👋 Hi ! My full name's Lê Bá Khánh</h2>
 
-<h3>🔣 Languages and Tools:</h3>
+<h3>🔣 Languages and Database MS:</h3>
 
 ![image](https://user-images.githubusercontent.com/65387242/159687076-87e6602f-2939-4786-b248-60194f5752c1.png) 
 ![image](https://user-images.githubusercontent.com/65387242/159687117-35f6ddd1-9b72-4df0-835d-e9a453ce3fb3.png)
