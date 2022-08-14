@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/65387242/159687154-63322a93-cd0a-4282-b3d4-31828c9c7196.png)
 ![image](https://user-images.githubusercontent.com/65387242/159687168-02a5f104-4299-4b5f-bd7f-0cfbca3c3377.png)
 ![image](https://camo.githubusercontent.com/bade1a981ea28e4692609fb96b97c36f880e3089de921988ff379b690498ad3a/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f6a6176612d636f666665652d6375702d6c6f676f2e706e67)
-![image](https://miro.medium.com/max/600/1*R4c8lHBHuH5qyqOtZb3h-w.png)
+![image](https://icons-for-free.com/download-icon-svg+developer+firebase+google+programming+icon-1320183319887802192_256.png)
 
 <h3>📖 Library/framework:</h3><br/>
 
