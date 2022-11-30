@@ -17,13 +17,13 @@
        <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="48px" height="48px" style="max-width: 100%;">
 </a>
 <a href="https://reactnative.dev/" title="React-Native" rel="nofollow">
-       <img src="https://assets.stickpng.com/images/62a74de8223343fbc2207d01.png" alt="React" width="48px" height="48px" style="max-width: 100%;">
+       <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="React-Native" width="48px" height="48px" style="max-width: 100%;">
 </a>
 <a href="https://redux-toolkit.js.org/" title="Reduxtoolkit" rel="nofollow">
-       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="React" width="48px" height="48px" style="max-width: 100%;">
+       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Reduxtoolkit" width="48px" height="48px" style="max-width: 100%;">
 </a>
 <a href="https://redux-saga.js.org/" title="ReduxSaga" rel="nofollow">
-       <img src="https://user-images.githubusercontent.com/36799589/69492522-e6b41b80-0ec9-11ea-90d3-b37bacad7ca8.png" alt="React" width="48px" height="48px" style="max-width: 100%;">
+       <img src="https://user-images.githubusercontent.com/36799589/69492522-e6b41b80-0ec9-11ea-90d3-b37bacad7ca8.png" alt="Reduxsaga" width="48px" height="48px" style="max-width: 100%;">
 </a>
 
 <h3>📲 Liên hệ:</h3> <br/>
