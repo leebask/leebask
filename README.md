@@ -30,7 +30,7 @@
        <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="Spring boot" width="90px" height="48px" style="max-width: 100%;">
 </a>
 <a href="https://www.jenkins.io/" title="jenskins" rel="nofollow">
-       <img src="https://contributors.jenkins.io/jenkins.png" alt="Spring boot" width="60px" height="48px" style="max-width: 100%;">
+       <img src="https://contributors.jenkins.io/jenkins.png" alt="Spring boot" width="60px" height="58px" style="max-width: 100%;">
 </a>
 
 <h3>📲 Liên hệ:</h3> <br/>
