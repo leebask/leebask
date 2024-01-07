@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/65387242/159687135-be0cd00f-16c3-4581-af6a-ee5a227f208b.png)
 ![image](https://user-images.githubusercontent.com/65387242/159687154-63322a93-cd0a-4282-b3d4-31828c9c7196.png)
 ![image](https://user-images.githubusercontent.com/65387242/159687168-02a5f104-4299-4b5f-bd7f-0cfbca3c3377.png)
-![image](https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg)
+<a href="https://iconscout.com/icons/java" class="text-underline font-size-sm" target="_blank">Java</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
 <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width="48px" height="48px" style="max-width: 100%;"></img>
 <!-- ![image](https://cdn.worldvectorlogo.com/logos/firebase-1.svg) -->
 
