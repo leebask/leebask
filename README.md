@@ -29,6 +29,9 @@
 <a href="https://zustand-demo.pmnd.rs/" title="Zustand" rel="nofollow">
        <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Reduxsaga" width="80px" height="48px" style="max-width: 100%;">
 </a>
+<a href="https://tanstack.com/query/latest" title="TanStackQuery" rel="nofollow">
+       <img src="https://miro.medium.com/v2/resize:fit:1400/1*cvx7D8ysHPfb6-Q3PsRzbQ.png" alt="Reduxsaga" width="80px" height="48px" style="max-width: 100%;">
+</a>
 <a href="[https://redux-saga.js.org/](https://spring.io/)" title="Spring boot" rel="nofollow">
        <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="Spring boot" width="90px" height="48px" style="max-width: 100%;">
 </a>
